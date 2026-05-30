@@ -1,7 +1,7 @@
 <?php
 
 $nome = "Marcos";
-$idade = 17;
+$idade = 49;
 $cidade = "Fortaleza";
 $profissaoAtual = "Desenvolvedor Junior";
 $objetivo = "Desenvolvedor Junior em PHP/Laravel";
